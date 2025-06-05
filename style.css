@@ -1,1 +1,9 @@
-/* Add styles here */
+*{
+    margin: 6;
+    padding: 6;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f3e5d7;
+}
