@@ -18,11 +18,14 @@ body > div{
     border-radius: 24px;
 }
 
-div img{
-    width: 166%;
+div img {
+    width: 100%;
+    height: auto;
     border-radius: 12px;
     margin-bottom: 40px;
+    display: block;
 }
+
 
 h1, h2{
     font-family: 'Lora', serif;
